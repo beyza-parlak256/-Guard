@@ -1,2 +1,6 @@
-# -Guard
-Protect the street where the president is. 
+# - Oyunun Adı : Guard / Koruma
+Oyun Türü : First-Person Shooter (FPS)
+Oyundaki Görev: Başkanın binasını korumak.
+Kullanılan Assetler : ...
+Hikaye : ...
+
